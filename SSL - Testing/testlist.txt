@@ -1,0 +1,10 @@
+/scratch/siddharths.scee.iitmandi/DATASET-2/subject3
+/scratch/siddharths.scee.iitmandi/DATASET-2/subject41
+/scratch/siddharths.scee.iitmandi/DATASET-2/subject32
+/scratch/siddharths.scee.iitmandi/DATASET-2/subject27
+/scratch/siddharths.scee.iitmandi/DATASET-2/subject46
+/scratch/siddharths.scee.iitmandi/DATASET-2/subject14
+/scratch/siddharths.scee.iitmandi/DATASET-2/subject42
+/scratch/siddharths.scee.iitmandi/DATASET-2/subject25
+/scratch/siddharths.scee.iitmandi/DATASET-2/subject1
+/scratch/siddharths.scee.iitmandi/DATASET-2/subject5
